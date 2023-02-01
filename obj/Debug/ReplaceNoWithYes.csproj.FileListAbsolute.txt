@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\ReplaceNoWithYes\bin\Debug\ReplaceNoWithYes.exe.config
+C:\Users\Wiz\Desktop\IGME 201\ReplaceNoWithYes\bin\Debug\ReplaceNoWithYes.exe
+C:\Users\Wiz\Desktop\IGME 201\ReplaceNoWithYes\bin\Debug\ReplaceNoWithYes.pdb
+C:\Users\Wiz\Desktop\IGME 201\ReplaceNoWithYes\obj\Debug\ReplaceNoWithYes.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\ReplaceNoWithYes\obj\Debug\ReplaceNoWithYes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\ReplaceNoWithYes\obj\Debug\ReplaceNoWithYes.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\ReplaceNoWithYes\obj\Debug\ReplaceNoWithYes.exe
+C:\Users\Wiz\Desktop\IGME 201\ReplaceNoWithYes\obj\Debug\ReplaceNoWithYes.pdb
